@@ -45,3 +45,7 @@ You can also write your own map as a list of strings using
 | MAP_C | UCS / A* | No path found | 13 |
 
 MAP_B contains the trap: the shortest path (8 moves) costs 22, while the cheapest path (12 moves) costs 12.
+## Team
+- مرام ابراهيم خميس عبدالله              2403258504
+- منة احمد سيد احم                   2403252144
+-  مريم محمد عبدالباري محمد            2403251016
