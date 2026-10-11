@@ -1,6 +1,3 @@
-import heapq
-import time
-
 
 # ---------------------- UCS (Uniform Cost Search) ----------------------
 def ucs(grid, start, goal):
